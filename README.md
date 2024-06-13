@@ -14,26 +14,12 @@ Infrastructure (PC, VM, Switches, Servers, Networks, Hypervisors, etc):<br>
 
 - Server Management, 
 - Network Administration, 
-- Storage Management, 
-- Data Center Operations, 
-- Cloud Infrastructure, 
-- Security, 
-- Backup and Disaster Recovery, 
-- Monitoring and Troubleshooting, 
 - Capacity Planning, 
 - Automation<br>
 
 #### 2 - DevOps is considered:
 
 - Collaboration, 
-- Automation,
-- Continuous Integration (CI),
-- Continuous Delivery (CD),
-- Infrastructure as Code (IaC),
-- Monitoring and Feedback,
-- Microservices,
-- Security (DevSecOps),
-- Culture,
 - Toolchain
 
 <br>
@@ -70,8 +56,7 @@ hyper-v, vmware, kvm, azure, aws, google, linode, etc
 # Terraform config
 <br>
 Config files at the location<br> 
-...ops/infraops/terraform/local/00X<br>
-001-006 <br>
+
 They can not be runned all in same time.
 need more explan
 
